@@ -25,7 +25,7 @@ export default function SignIn() {
 
           className="bg-slate-700 text-white p-3 rounded-lg uppercase hover:opacity-95 disabled:opacity-80"
         >
-
+       Sign In
         </button>
 
       </form>
@@ -35,7 +35,7 @@ export default function SignIn() {
           <span className="text-blue-700">Sign up</span>
         </Link>
       </div>
-       <p className="text-red-500 mt-5"></p>
+      
     </div>
   );
 
